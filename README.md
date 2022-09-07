@@ -1,2 +1,2 @@
 # RetinaNet-PyTorch
-复现PyTorch
+用PyTorch复现RetinaNet
